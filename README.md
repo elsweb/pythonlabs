@@ -29,8 +29,8 @@ $ python script-name.py
 ```
 Author
 ------
-* elsWeb Freelancer (<http://elsweb.com.br/> ou <https://www.facebook.com/officialelsweb/>)
-* Emanuel Lds (https://www.linkedin.com/in/elsweb)
+* elsWeb Freelancer
+* Emanuel Lds
 
 Skills used
 ========================
