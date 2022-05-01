@@ -9,8 +9,12 @@ Dependências
 ------------
 ### Runtime
 * Python
+
 ### Packages
-* 
+* lxml
+* html5lib
+* bs4
+* pandas
 
 Instalação de dependências
 -----------
