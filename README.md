@@ -23,7 +23,7 @@ $ pip install dependency-name
 ```
 Uso
 ------
-###### Digite um dos comandos abaixo para iniciar o servidor, e acesse localhost:3030
+###### Digite um dos comandos abaixo para executar o script
 ```shell
 $ python script-name.py
 ```
